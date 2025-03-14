@@ -38,6 +38,10 @@ Yao Ma, Charu Aggarwal, Jiliang Tang\
 Book Chapter in Feature Engineering for Machine Learning and Data Analytics, CRC Press, 2017
 
 ## Preprints
+Yuxiang Wang, Wenqi Fan, Suhang Wang, Yao Ma\
+[Towards Graph Foundation Models: A Transferability Perspective.](https://arxiv.org/pdf/2503.09363)\
+arXiv:2503.09363
+
 Hongliang Chi, Qiong Wu, Zhengyi Zhou, Jonathan Light, Emily Dodwell, Yao Ma\
 [Unifying and Optimizing Data Values for Selection via Sequential-Decision-Making.](https://arxiv.org/pdf/2502.04554)\
 arXiv:2502.04554
