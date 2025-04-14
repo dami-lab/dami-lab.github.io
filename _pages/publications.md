@@ -50,9 +50,9 @@ Yuxiang Wang, Xinnan Dai, Wenqi Fan, Yao Ma\
 [Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation.](https://www.arxiv.org/pdf/2502.18771)\
 arXiv:2502.18771
 
-Liangliang Zhang, Haoran Bao, Yao Ma\
+<!-- Liangliang Zhang, Haoran Bao, Yao Ma\
 [Extending Graph Condensation to Multi-Label Datasets: A Benchmark Study.](https://arxiv.org/pdf/2412.17961)\
-arXiv:2412.17961
+arXiv:2412.17961 -->
 
 Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S.Yu, Yao Ma\
 [Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks.](https://arxiv.org/pdf/2402.15680.pdf)\
@@ -89,6 +89,10 @@ arXiv:1710.07266
 ## Conference and Journal Publications
 
 ### Publications in 2025
+Liangliang Zhang, Haoran Bao, Yao Ma\
+[Extending Graph Condensation to Multi-Label Datasets: A Benchmark Study.](https://openreview.net/pdf?id=7aJxaPg30d)\
+Transactions on Machine Learning Research (TMLR)
+
 Hongliang Chi, Qiong Wu, Zhengyi Zhou, Yao Ma.\
 [Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation.](https://openreview.net/pdf?id=8X74NZpARg)\
 International Conference on Learning Representations (ICLR 2025)
