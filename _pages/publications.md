@@ -38,6 +38,11 @@ Yao Ma, Charu Aggarwal, Jiliang Tang\
 Book Chapter in Feature Engineering for Machine Learning and Data Analytics, CRC Press, 2017
 
 ## Preprints
+
+Liangliang Zhang, Zhuorui Jiang, Hongliang Chi, Haoyang Chen, Mohammed Elkoumy, Fali Wang, Qiong Wu, Zhengyi Zhou, Shirui Pan, Suhang Wang, Yao Ma\
+[Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking.](https://arxiv.org/pdf/2505.23495)\
+arXiv:2505.23495
+
 Yuxiang Wang, Wenqi Fan, Suhang Wang, Yao Ma\
 [Towards Graph Foundation Models: A Transferability Perspective.](https://arxiv.org/pdf/2503.09363)\
 arXiv:2503.09363
