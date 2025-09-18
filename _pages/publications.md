@@ -39,9 +39,9 @@ Book Chapter in Feature Engineering for Machine Learning and Data Analytics, CRC
 
 ## Preprints
 
-Liangliang Zhang, Zhuorui Jiang, Hongliang Chi, Haoyang Chen, Mohammed Elkoumy, Fali Wang, Qiong Wu, Zhengyi Zhou, Shirui Pan, Suhang Wang, Yao Ma\
+<!-- Liangliang Zhang, Zhuorui Jiang, Hongliang Chi, Haoyang Chen, Mohammed Elkoumy, Fali Wang, Qiong Wu, Zhengyi Zhou, Shirui Pan, Suhang Wang, Yao Ma\
 [Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking.](https://arxiv.org/pdf/2505.23495)\
-arXiv:2505.23495
+arXiv:2505.23495 -->
 
 Yuxiang Wang, Wenqi Fan, Suhang Wang, Yao Ma\
 [Towards Graph Foundation Models: A Transferability Perspective.](https://arxiv.org/pdf/2503.09363)\
@@ -94,6 +94,15 @@ arXiv:1710.07266
 ## Conference and Journal Publications
 
 ### Publications in 2025
+
+Yuanzhe Liu, Ryan Deng, Tim Kaler, Xuhao Chen, Charles E. Leiserson, Yao Ma, Jie Chen\
+[Lessons Learned: A Multi-Agent Framework for Code LLMs to Learn and Improve.](https://arxiv.org/pdf/2505.23946)\
+The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+
+Liangliang Zhang, Zhuorui Jiang, Hongliang Chi, Haoyang Chen, Mohammed Elkoumy, Fali Wang, Qiong Wu, Zhengyi Zhou, Shirui Pan, Suhang Wang, Yao Ma\
+[Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking.](https://arxiv.org/pdf/2505.23495)\
+The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+
 Liangliang Zhang, Haoran Bao, Yao Ma\
 [Extending Graph Condensation to Multi-Label Datasets: A Benchmark Study.](https://openreview.net/pdf?id=7aJxaPg30d)\
 Transactions on Machine Learning Research (TMLR)
