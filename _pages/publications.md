@@ -39,9 +39,9 @@ Book Chapter in Feature Engineering for Machine Learning and Data Analytics, CRC
 
 ## Preprints
 
-<!-- Liangliang Zhang, Zhuorui Jiang, Hongliang Chi, Haoyang Chen, Mohammed Elkoumy, Fali Wang, Qiong Wu, Zhengyi Zhou, Shirui Pan, Suhang Wang, Yao Ma\
-[Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking.](https://arxiv.org/pdf/2505.23495)\
-arXiv:2505.23495 -->
+Liangliang Zhang, Nandana Mihindukulasooriya, Niharika S. D'Souza, Sola Shirai, Sarthak Dash, Yao Ma, Horst Samulowitz\
+[From Factoid Questions to Data Product Requests: Benchmarking Data Product Discovery over Tables and Text.](https://arxiv.org/pdf/2510.21737)\
+arXiv:2510.21737
 
 Yuxiang Wang, Wenqi Fan, Suhang Wang, Yao Ma\
 [Towards Graph Foundation Models: A Transferability Perspective.](https://arxiv.org/pdf/2503.09363)\
@@ -54,10 +54,6 @@ arXiv:2502.04554
 Yuxiang Wang, Xinnan Dai, Wenqi Fan, Yao Ma\
 [Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation.](https://www.arxiv.org/pdf/2502.18771)\
 arXiv:2502.18771
-
-<!-- Liangliang Zhang, Haoran Bao, Yao Ma\
-[Extending Graph Condensation to Multi-Label Datasets: A Benchmark Study.](https://arxiv.org/pdf/2412.17961)\
-arXiv:2412.17961 -->
 
 Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S.Yu, Yao Ma\
 [Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks.](https://arxiv.org/pdf/2402.15680.pdf)\
