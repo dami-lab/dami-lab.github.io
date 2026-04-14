@@ -89,6 +89,16 @@ arXiv:1710.07266
 
 ## Conference and Journal Publications
 
+### Publications in 2026
+Qian Ma, Qiong Wu, Zhengyi Zhou, Yao Ma\
+[Ground Then Rank: Revisiting Knowledge-Based VQA with Training-Free Entity Identification.](https://van-qian.github.io/)\
+In The 64th Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2026
+
+Yuxiang Wang, Xinnan Dai, Wenqi Fan, Yao Ma\
+[Exploring Graph Learning Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation.](https://arxiv.org/pdf/2502.18771)\
+In The 64th Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2026
+
+
 ### Publications in 2025
 
 Yuanzhe Liu, Ryan Deng, Tim Kaler, Xuhao Chen, Charles E. Leiserson, Yao Ma, Jie Chen\
