@@ -90,6 +90,11 @@ arXiv:1710.07266
 ## Conference and Journal Publications
 
 ### Publications in 2026
+
+Hongliang Chi, Qiong Wu, Zhengyi Zhou, Jonathan Light, Emily Dodwell, Yao Ma\
+[Unifying and Optimizing Data Values for Selection via Sequential-Decision-Making](https://arxiv.org/pdf/2502.04554)\
+Spotlight paper in Forty-Third International Conference on Machine Learning (ICML), 2026.
+
 Qian Ma, Qiong Wu, Zhengyi Zhou, Yao Ma\
 [Ground Then Rank: Revisiting Knowledge-Based VQA with Training-Free Entity Identification.](https://van-qian.github.io/)\
 In The 64th Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2026
